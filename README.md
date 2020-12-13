@@ -1,2 +1,2 @@
-# Car_Seller_Application
+# CAR SELLER Application
 ## Link:https://car-seller-application.herokuapp.com/
