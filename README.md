@@ -1,2 +1,2 @@
-# CAR SELLER APPLICATION
+# CAR PRICE PREDICTOR
 ## Link:https://car-seller-application.herokuapp.com/
